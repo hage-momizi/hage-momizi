@@ -14,3 +14,13 @@
 - [Steam]<https://steamcommunity.com/profiles/76561199196232740>
 
 興味のある方はぜひフォローやスターをお願いします！
+
+
+<p align="left">
+  <a href="https://github.com/hage-momizi">
+    <img height="20" src="https://komarev.com/ghpvc/?username=hage-momizi" />
+  </a>
+  <a href="https://github.com/hage-momizi">
+    <img height="20" src="https://img.shields.io/github/followers/hage-momizi?label=follow&logo=github&style=flat" />
+  </a>
+</p>
