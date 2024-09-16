@@ -20,3 +20,4 @@
 - [Discord] <https://discord.com/user/931451185779572806> 
 - [Twitter] <https://twitter.com/yukameron1> 
 - [Steam] <https://steamcommunity.com/profiles/76561199196232740>
+- [その他SNS等] <https://solo.to/momizichan> <https://lit.link/Yukamomizi>
