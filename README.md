@@ -9,7 +9,8 @@
 - **Tools:** Docker, CasaOS, Cloudflare, PufferPanel
 
 ## 📫 Contact
-- **Discord:** [@yukamomizi__]
-- **Twitter:** [@yukameron1](https://x.com/yukameron1)
+- [Discord]<https://discord.com/user/931451185779572806> 
+- [Twitter]<https://twitter.com/yukameron1> 
+- [Steam]<https://steamcommunity.com/profiles/76561199196232740
 
 興味のある方はぜひフォローやスターをお願いします！
