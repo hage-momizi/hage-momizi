@@ -6,7 +6,8 @@
     <img height="20" src="https://img.shields.io/github/followers/hage-momizi?label=follow&logo=github&style=flat" />
   </a>
 </p>
-[![wakatime](https://wakatime.com/badge/user/104f9a97-a187-4739-9b6b-a4f58422c3ce.svg)](https://wakatime.com/@104f9a97-a187-4739-9b6b-a4f58422c3ce)
+
+<a href="https://wakatime.com/@104f9a97-a187-4739-9b6b-a4f58422c3ce"><img src="https://wakatime.com/badge/user/104f9a97-a187-4739-9b6b-a4f58422c3ce.svg" alt="Total time coded since May 24 2025" /></a>
 
 ## 🌟 About Me
 
