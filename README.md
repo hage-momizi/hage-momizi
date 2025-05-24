@@ -6,6 +6,8 @@
     <img height="20" src="https://img.shields.io/github/followers/hage-momizi?label=follow&logo=github&style=flat" />
   </a>
 </p>
+[![wakatime](https://wakatime.com/badge/user/104f9a97-a187-4739-9b6b-a4f58422c3ce.svg)](https://wakatime.com/@104f9a97-a187-4739-9b6b-a4f58422c3ce)
+
 ## 🌟 About Me
 
 こんにちは！私は日本で活動する自称インフラエンジニアです。
