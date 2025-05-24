@@ -6,7 +6,7 @@
     <img height="20" src="https://img.shields.io/github/followers/hage-momizi?label=follow&logo=github&style=flat" />
   </a>
 </p>
-# 🌟 About Me
+## 🌟 About Me
 
 こんにちは！私は日本で活動する自称インフラエンジニアです。
 自宅でサーバーで何かを構築し、なにかを公開したりしてます。
