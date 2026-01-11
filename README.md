@@ -20,8 +20,8 @@
 - **Tools:** Docker, CasaOS, Cloudflare, PufferPanel
 
 ## 📫 Contact
-- [自己紹介] <https://v2.momizichan.uk>
+- [自己紹介] <https://momizi.ykm11.cyou>
 - [Discord] <https://discord.com/user/931451185779572806> 
-- [Twitter] <https://twitter.com/yukameron1> 
+- [Twitter] <https://x.com/ykm11m> 
 - [Steam] <https://steamcommunity.com/profiles/76561199196232740>
 - [その他SNS等] <https://solo.to/momizichan> <https://lit.link/Yukamomizi>
