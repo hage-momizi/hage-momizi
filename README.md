@@ -21,7 +21,7 @@
 
 ## 📫 Contact
 - [自己紹介] <https://momizi.ykm11.cyou>
-- [Discord] <https://discordapp.com/user/931451185779572806> 
+- [Discord] <https://discordapp.com/users/931451185779572806>  
 - [Twitter] <https://x.com/ykm11m> 
 - [Steam] <https://steamcommunity.com/profiles/76561199196232740>
 - [その他SNS等] <https://solo.to/momizichan> <https://lit.link/Yukamomizi>
