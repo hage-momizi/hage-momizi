@@ -9,6 +9,8 @@
 
 <a href="https://wakatime.com/@104f9a97-a187-4739-9b6b-a4f58422c3ce"><img src="https://wakatime.com/badge/user/104f9a97-a187-4739-9b6b-a4f58422c3ce.svg" alt="Total time coded since May 24 2025" /></a>
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hage-momizi&layout=compact&theme=tokyonight)
+
 ## About Me
 
 こんにちは！私は日本で活動する開発者です。
